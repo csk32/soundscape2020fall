@@ -7,8 +7,6 @@
 | Voices | Scripted Recording | N/A |
 | Loud AC | Online source | N/A |
 | Toilet Flushing | Recording on iPhone | Christianna Kelley. Toilet Flushing. 10 Sep 2020. M4A file on iPhone. |
-| Luggage weighed and thrown | Audacity Sound Effect | N/A |
-| Silverware and Plates at the Restaurant | Online Source | N/A |
-| Ticket Printing | Audacity Sound Effect| N/A |
+| Ticket Printing | Freesound.com | Free-Rush. Jet Page Printing. 22 Mar 2016. WAV file. https://freesound.org/people/Free-Rush/sounds/341059/|
 | Sink Water Running | Recording on iPhone | Christianna Kelley. Sink Water. 10 Sep 2020. M4A file on iPhone. |
 | Footsteps | Online Source | PandaKub. Walking on Tile With Shoes. 6 Dec 2014. WAV file. https://freesound.org/people/PandaKub/sounds/256904/|
