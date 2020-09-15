@@ -6,9 +6,9 @@
 | Music | Freesound.com | rivernile7. Music Store. 20 Apr 2014. WAV file. https://freesound.org/people/rivernile7/sounds/234249/|
 | Voices | Scripted Recording | N/A |
 | Loud AC | Online source | N/A |
-| Toilet Flushing | Recording on iPhone | N/A |
+| Toilet Flushing | Recording on iPhone | Christianna Kelley. Toilet Flushing. 10 Sep 2020. M4A file on iPhone. |
 | Luggage weighed and thrown | Audacity Sound Effect | N/A |
 | Silverware and Plates at the Restaurant | Online Source | N/A |
 | Ticket Printing | Audacity Sound Effect| N/A |
-| Sink Water Running | Recording on iPhone | N/A |
-| Footsteps | Online Source | N/A |
+| Sink Water Running | Recording on iPhone | Christianna Kelley. Sink Water. 10 Sep 2020. M4A file on iPhone. |
+| Footsteps | Online Source | PandaKub. Walking on Tile With Shoes. 6 Dec 2014. WAV file. https://freesound.org/people/PandaKub/sounds/256904/|
